@@ -1,0 +1,3 @@
+In this project there is a use of python library called time from player and a notification is imported from that library
+which provides you the reminder in your notification section in the desktop to do the work baically this project is used as
+a reminder which reminds you about yor all the important works...
